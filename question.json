@@ -212,14 +212,18 @@
     {
         "questionText": "Theo QCVN 03:2011/BLĐTBXH– Quy chuẩn kỹ thuật quốc gia về an toàn lao động đối với máy hàn điện và công việc hàn điện. Yêu cầu bố trí thiết bị và tổ chức nơi làm việc quy định như thế nào?",
         "answerTexts": [
-            "Khoảng cách giữa các máy hàn không được nhỏ hơn 1,5m. Khoảng cách giữa các máy hàn tự động không được nhỏ hơn 2m.",
             "Chiều dài dây dẫn từ nơi cấp điện áp sơ cấp đến thiết bị hàn di động không vượt quá 10m."
+        ]
+    },
+      {
+        "questionText": "Theo QCVN 03:2011/BLĐTBXH– Quy chuẩn kỹ thuật quốc gia về an toàn lao động đối với máy hàn điện và công việc hàn điện. Yêu cầu bố trí thiết bị và tổ chức nơi làm việc quy định như thế nào?",
+        "answerTexts": [
+            "Khoảng cách giữa các máy hàn không được nhỏ hơn 1,5m. Khoảng cách giữa các máy hàn tự động không được nhỏ hơn 2m."
         ]
     },
     {
         "questionText": "Theo QCVN 03:2011/BLĐTBXH– Quy chuẩn kỹ thuật quốc gia về an toàn lao động đối với máy hàn điện và công việc hàn điện. Yêu cầu nào sau đây đúng quy định?",
         "answerTexts": [
-            "Cả các ý A, B, C đều đúng. ",
             "Cả các ý A, B, C đều đúng.",
             "Khi tiến hành hàn điện ngoài trời, phía trên các máy hàn và vị trí hàn cần có mái che bằng vật liệu không cháy. Nếu không có mái che, khi mưa phải ngừng làm việc."
         ]
