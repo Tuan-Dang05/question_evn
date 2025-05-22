@@ -674,7 +674,7 @@
     {
         "questionText": "Theo Nghị định 44/2016/NĐ-CP ngày 15/5/2016 của Chính phủ qui định: thời gian huấn luyện định kỳ đối với nhóm 4 như thế nào?",
         "answerTexts": [
-            "Ít nhất 1 năm một lần, mỗi lần ít nhất 8 giờ."
+            "Ít nhất 1 năm một lần,"
         ]
     },
     {
@@ -1355,7 +1355,6 @@
     {
         "questionText": "Khi máy cắt đang vận hành bình thường thì:",
         "answerTexts": [
-            "Cấm sửa chữa ở các máy cắt đang vận hành (kể cả việc lau sứ cách điện bằng thiết bị chuyên dùng).",
             "Cấm sửa chữa ở các máy cắt đang vận hành (kể cả việc lau sứ cách điện bằng thiết bị chuyên dùng)."
         ]
     },
