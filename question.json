@@ -1136,6 +1136,12 @@
             "Chuẩn bị, kiểm tra chất lượng của các dụng cụ, trang bị an toàn sử dụng trong khi làm việc; kiểm tra sơ bộ tình trạng sức khỏe, trang bị phương tiện bảo vệ cá nhân của nhân viên đơn vị công tác."
         ]
     },
+     {
+        "questionText": "Trách nhiệm của người chỉ huy trực tiếp:",
+        "answerTexts": [
+            "Chuẩn bị, kiểm tra chất lượng của các dụng cụ, trang bị an toàn sử dụng trong khi làm việc; kiểm tra sơ bộ tình trạng sức khỏe, trang bị phương tiện bảo vệ cá nhân của nhân viên đơn vị công tác."
+        ]
+    },
     {
         "questionText": "Đóng, cắt dao cách ly tại chỗ trực tiếp bằng tay phải mang găng tay cách điện và đi ủng cách điện (hoặc mang găng tay cách điện và đứng trên ghế cách điện). Chỉ được đóng, cắt dao cách ly (hoặc cầu chì tự rơi) trên cột với cấp điện áp ≤ 35kV bằng sào cách điện khi điều kiện khoảng cách từ phần dẫn điện thấp nhất của các thiết bị này đến người thao tác không nhỏ hơn:",
         "answerTexts": [
