@@ -1139,6 +1139,12 @@
      {
         "questionText": "Trách nhiệm của người chỉ huy trực tiếp:",
         "answerTexts": [
+            "Chỉ huy mọi người đến đúngđịa điểm (nơi) sẽ làm việc theo kế hoạch, chỉ dẫn cụ thể nhiệm vụ, nội dung công việc cho các nhân viên trong đơn vị công tác."
+        ]
+    },
+     {
+        "questionText": "Trách nhiệm của người chỉ huy trực tiếp:",
+        "answerTexts": [
             "Chuẩn bị, kiểm tra chất lượng của các dụng cụ, trang bị an toàn sử dụng trong khi làm việc; kiểm tra sơ bộ tình trạng sức khỏe, trang bị phương tiện bảo vệ cá nhân của nhân viên đơn vị công tác."
         ]
     },
