@@ -1648,6 +1648,12 @@
             "Nếu mở cửa lưới kiểm tra thiết bị đang vận hành thì phải có hai người, người giám sát phải có bậc an toàn điện từ bậc 4 trở lên, người kiểm tra từ bậc 3 trở lên và phải quan sát kỹ phần mang điện để đảm bảo khoảng cách an toàn. Khi có giông sét không được kiểm tra các trạm ngoài trời."
         ]
     },
+     {
+        "questionText": "Biện pháp an toàn khi làm việc ở các trạm biến áp:",
+        "answerTexts": [
+            "Nếu mở cửa lưới kiểm tra thiết bị đang vận hành thì phải có hai người, người giám sát phải có bậc an toàn điện từ bậc 4 trở lên, người kiểm tra từ bậc 3 trở lên và phải quan sát kỹ phần mang điện để đảm bảo khoảng cách an toàn. Khi có giông sét không được kiểm tra các trạm ngoài trời."
+        ]
+    },
     {
         "questionText": "Theo quy trình an toàn điện, phiếu công tác được quy định như thế nào là đúng: ",
         "answerTexts": [
