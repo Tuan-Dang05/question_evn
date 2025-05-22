@@ -250,9 +250,19 @@
     {
         "questionText": "Theo QCVN 09: 2012/BLĐTBXH - Quy chuẩn kỹ thuật quốc gia về an toàn lao động đối với dụng cụ điện cầm tay truyền động bằng động cơ. Mỗi lần giao dụng cụ điện cầm tay cho người sử dụng, người giao dụng cụ điện cầm tay cùng người sử dụng phải kiểm tra các mục nào sau đây:",
         "answerTexts": [
-            "Kiểm tra tính hợp bộ và độ chắc chắn của những chỗ ghép, gắn, nối các bộ phận của dụng cụ điện cầm tay.",
-            "Xem xét bên ngoài các bộ phận của máy (kiểm tra dây nguồn, ống bảo vệ dây, phích cắm, cách điện của vỏ, tay cầm, nắp che chổi than...).",
             "Kiểm tra bộ phận cắt mạch có làm việc dứt khoát không; Kiểm tra chạy không tải; Với các dụng cụ điện cầm tay cấp I phải kiểm tra cả mạch nối dây bảo vệ máy."
+        ]
+    },
+     {
+        "questionText": "Theo QCVN 09: 2012/BLĐTBXH - Quy chuẩn kỹ thuật quốc gia về an toàn lao động đối với dụng cụ điện cầm tay truyền động bằng động cơ. Mỗi lần giao dụng cụ điện cầm tay cho người sử dụng, người giao dụng cụ điện cầm tay cùng người sử dụng phải kiểm tra các mục nào sau đây:",
+        "answerTexts": [
+            "Kiểm tra tính hợp bộ và độ chắc chắn của những chỗ ghép, gắn, nối các bộ phận của dụng cụ điện cầm tay."
+        ]
+    },
+     {
+        "questionText": "Theo QCVN 09: 2012/BLĐTBXH - Quy chuẩn kỹ thuật quốc gia về an toàn lao động đối với dụng cụ điện cầm tay truyền động bằng động cơ. Mỗi lần giao dụng cụ điện cầm tay cho người sử dụng, người giao dụng cụ điện cầm tay cùng người sử dụng phải kiểm tra các mục nào sau đây:",
+        "answerTexts": [
+            "Xem xét bên ngoài các bộ phận của máy (kiểm tra dây nguồn, ống bảo vệ dây, phích cắm, cách điện của vỏ, tay cầm, nắp che chổi than...)."
         ]
     },
     {
@@ -1099,7 +1109,7 @@
     {
         "questionText": "Khi phát hiện có người bị điện giật, trong bất kỳ trường hợp nào người phát hiện cũng phải:",
         "answerTexts": [
-            "khỏi mạch điện và cứu chữa người bị nạn."
+            "Tìm biện pháp nhanh nhất để tách nạn nhân ra khỏi mạch điện và cứu chữa người bị nạn."
         ]
     },
     {
